@@ -1,0 +1,8 @@
+<suite name = "Orange Demo">
+    <parameter name = "browser" value = "" />
+    <test name = "Orange">
+        <classes>
+            <class name = "testRunners.runner"/>
+        </classes>
+    </test>
+</suite>
